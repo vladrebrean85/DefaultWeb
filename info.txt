@@ -1,0 +1,1 @@
+This is a critical message that I'm going to amend in a previous commit along
