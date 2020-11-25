@@ -1,0 +1,7 @@
+Commit #1 This is a critical message that I'm going to amend in a previous commit along
+
+Commit #2 during squash activity
+
+Commit #3 during squash activity
+
+Commit #4 during squash activity
